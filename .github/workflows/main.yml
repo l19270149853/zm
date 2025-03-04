@@ -46,10 +46,12 @@ jobs:
           # 设置远程仓库认证
           git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
 
+          # 优先使用合并策略处理可能的冲突（保留本地更改）
+          git pull origin main --no-rebase -X ours
+
           # 添加并提交更改
           git add zby.txt
           git commit -m "自动更新 IPTV 列表 $(date +'%Y-%m-%d %H:%M') [skip ci]" || echo "无新更改"
 
           # 强制推送更新
-          git pull --rebase
-          git push origin HEAD:main --force
+          git push origin main --force
