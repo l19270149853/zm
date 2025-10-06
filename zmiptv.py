@@ -11,7 +11,7 @@ from urllib3.util.retry import Retry
 # 增强版配置参数
 # ======================
 MAX_WORKERS = 15  # 提升并发数
-SPEED_THRESHOLD = 0.4  # 提高速度阈值
+SPEED_THRESHOLD = 0.15 # 提高速度阈值
 REQUEST_TIMEOUT = 20  # 延长超时时间
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 RETRY_STRATEGY = Retry(
@@ -235,3 +235,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n⛔ 程序异常终止: {str(e)}")
         exit(1)
+
