@@ -198,8 +198,8 @@ class IPTVUpdater:
                 f.write("\n".join(others_list))
             
             print(f"\n✅ 成功写入文件，总计频道数：{len(self.channel_dict)}")
-            print(f"文件路径：{os.path.abspath('zby.txt')}")
-            print(f"文件大小：{os.path.getsize('zby.txt') / 1024:.2f} KB")
+            print(f"文件路径：{os.path.abspath('y.txt')}")
+            print(f"文件大小：{os.path.getsize('y.txt') / 1024:.2f} KB")
 
         except Exception as e:
             print(f"⛔ 文件写入失败: {str(e)}")
@@ -235,4 +235,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n⛔ 程序异常终止: {str(e)}")
         exit(1)
+
 
