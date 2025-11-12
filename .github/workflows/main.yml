@@ -1,16 +1,10 @@
 name: zmtv
 on:
   schedule:
-    - cron: '0 6 * * *'  # 每天 06:00 UTC 触发（对应北京时间14:00）
+    - cron: '0 6 * * *'  # 每天 06:00 UTC 触发
   push:
     branches:
       - main
-
-# 新增权限配置：解决 workflow 创建/更新+代码推送权限问题
-permissions:
-  contents: write  # 允许读写仓库文件（含 y.txt 提交推送）
-  workflows: write # 核心！允许创建/更新工作流文件（解决原拒绝报错）
-  actions: read    # 读取 Actions 运行状态（按需配置）
 
 jobs:
   build:
@@ -46,9 +40,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # 配置Git身份
           git config --global user.email "362213335lkh@gmail.com"
           git config --global user.name "l19270149853"
+
+          # 设置远程仓库认证
           git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
+
+          # 强制更新策略
           git add y.txt --force
           git commit -m "强制更新 IPTV 列表 $(date +'%Y-%m-%d %H:%M') [skip ci]" --allow-empty
+
+          # 强制推送到仓库（覆盖历史）
           git push origin main --force --force-with-lease
