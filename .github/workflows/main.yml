@@ -31,7 +31,7 @@ jobs:
       - name: Verify file generation
         run: |
           if [ ! -f y.txt ]; then
-            echo "::error::zby.txt 文件未生成！"
+            echo "::error::y.txt 文件未生成！"
             exit 1
           fi
           echo "文件已生成，大小：$(du -h y.txt | cut -f1)"
