@@ -185,7 +185,7 @@ class IPTVUpdater:
 
         # 写入文件
         try:
-            with open("zby.txt", "w", encoding="utf-8") as f:
+            with open("y.txt", "w", encoding="utf-8") as f:
                 f.write(f"# 最后更新时间: {time.strftime('%Y-%m-%d %H:%M')}\n\n")
                 
                 f.write("央视频道,#genre#\n")
@@ -235,5 +235,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n⛔ 程序异常终止: {str(e)}")
         exit(1)
+
 
 
