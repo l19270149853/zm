@@ -1,7 +1,7 @@
 name: zmtv
 on:
   schedule:
-    - cron: '1 7 * * *'  # 每天 06:00 UTC 触发
+    - cron: '1 1 * * *'  # 每天 06:00 UTC 触发
   push:
     branches:
       - main
