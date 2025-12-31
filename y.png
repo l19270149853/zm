@@ -1,0 +1,91 @@
+# 最后更新时间: 2025-12-31 10:58
+
+央视频道,#genre#
+CCTV-1,http://103.114.90.82:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://103.121.188.31:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://103.114.90.82:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://103.121.188.31:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://103.114.90.82:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://103.121.188.31:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://103.114.90.82:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://103.121.188.31:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://103.114.90.82:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://103.121.188.31:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://103.114.90.82:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://103.121.188.31:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://103.114.90.82:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://103.121.188.31:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+
+卫视频道,#genre#
+
+
+其他频道,#genre#
+:HubeiTV,http://103.114.90.82:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+:HubeiTV,http://103.121.188.31:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+Ahlebait TV,http://103.114.90.82:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+Ahlebait TV,http://103.121.188.31:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV_1,http://103.114.90.82:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV_1,http://103.121.188.31:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV_KAKU,http://103.114.90.82:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+BTV_KAKU,http://103.121.188.31:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CANAL+ ACTION,http://185.205.140.198:9844/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CANAL+ MAE MADI,http://185.205.140.198:9844/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CANAL+ SPORTS 1,http://185.205.140.198:9844/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CANAL+ SPORTS 2,http://185.205.140.198:9844/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CANAL+ ZAT LENN,http://185.205.140.198:9844/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CARTOON NETWORK,http://185.205.140.198:9844/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV,http://103.114.90.82:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV,http://103.121.188.31:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN A,http://103.114.90.82:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN A,http://103.121.188.31:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN E,http://103.114.90.82:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN E,http://103.121.188.31:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN F,http://103.114.90.82:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN F,http://103.121.188.31:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN R,http://103.114.90.82:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN R,http://103.121.188.31:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://103.114.90.82:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://103.121.188.31:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CHANNEL 7,http://185.205.140.198:9844/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CNAI HD,http://103.114.90.82:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+CNAI HD,http://103.121.188.31:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+CQTV,http://103.114.90.82:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CQTV,http://103.121.188.31:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+DISCOVERY,http://185.205.140.198:9844/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+Henan TV,http://103.114.90.82:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+Henan TV,http://103.121.188.31:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+JSWS,http://103.114.90.82:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+JSWS,http://103.121.188.31:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+JSYMKT,http://103.114.90.82:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+JSYMKT,http://103.121.188.31:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+KBS WORLD,http://185.205.140.198:9844/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+MRTV,http://185.205.140.198:9844/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+MRTV-4,http://185.205.140.198:9844/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+NMTV-M,http://103.114.90.82:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+NMTV-M,http://103.121.188.31:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+Phx Chinese Channel,http://103.114.90.82:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+Phx Chinese Channel,http://103.121.188.31:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+Program1010,http://103.114.90.82:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+Program1010,http://103.121.188.31:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+Program1020,http://103.114.90.82:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+Program1020,http://103.121.188.31:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+SHANXI-TV,http://103.114.90.82:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+SHANXI-TV,http://103.121.188.31:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+SZTV,http://103.114.90.82:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+SZTV,http://103.121.188.31:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+ShanDongTV,http://103.114.90.82:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+ShanDongTV,http://103.121.188.31:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+TV5,http://103.114.90.82:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+TV5,http://103.121.188.31:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+WARNERS BROS,http://185.205.140.198:9844/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+WORLD MOVIES,http://185.205.140.198:9844/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+ZJTV,http://103.114.90.82:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+ZJTV,http://103.121.188.31:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+sichuan,http://103.114.90.82:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+sichuan,http://103.121.188.31:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+康巴,http://103.114.90.82:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+康巴,http://103.121.188.31:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+柬埔寨,http://103.114.90.82:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+柬埔寨,http://103.121.188.31:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+河北,http://103.114.90.82:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+河北,http://103.121.188.31:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
