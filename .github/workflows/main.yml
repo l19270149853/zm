@@ -31,10 +31,10 @@ jobs:
       - name: Verify file generation
         run: |
           if [ ! -f y.txt ]; then
-            echo "::error::y.txt 文件未生成！"
+            echo "::error::y.png 文件未生成！"
             exit 1
           fi
-          echo "文件已生成，大小：$(du -h y.txt | cut -f1)"
+          echo "文件已生成，大小：$(du -h y.png | cut -f1)"
 
       - name: Commit and push changes
         env:
@@ -48,7 +48,7 @@ jobs:
           git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
 
           # 强制更新策略
-          git add y.txt --force
+          git add y.png --force
           git commit -m "强制更新 IPTV 列表 $(date +'%Y-%m-%d %H:%M') [skip ci]" --allow-empty
 
           # 强制推送到仓库（覆盖历史）
